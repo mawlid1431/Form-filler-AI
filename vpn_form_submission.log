@@ -1,0 +1,98 @@
+2025-06-01 03:48:18,625 - custom_form_submitter - INFO - CustomVPNFormSubmitter initialized for form: https://forms.gle/b9Gg1wxhsPbKWJZRA
+2025-06-01 03:48:18,627 - custom_form_submitter - INFO - Debug mode: True
+2025-06-01 03:48:18,629 - custom_form_submitter - INFO - Sandbox environment detected: False
+2025-06-01 03:48:18,631 - custom_form_submitter - INFO - Processing submission 1/5
+2025-06-01 03:48:18,632 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:48:20,554 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:48:26,989 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:48:48,449 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:48:49,210 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\1_form_load_timeout_20250601_034848.png
+2025-06-01 03:48:54,797 - custom_form_submitter - INFO - Retry attempt 2/3
+2025-06-01 03:48:54,797 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:48:56,160 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:48:59,630 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:49:20,638 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:49:22,153 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\1_form_load_timeout_20250601_034920.png
+2025-06-01 03:49:32,688 - custom_form_submitter - INFO - Retry attempt 3/3
+2025-06-01 03:49:32,691 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:49:34,025 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:49:42,993 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:50:05,328 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:50:05,608 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\1_form_load_timeout_20250601_035005.png
+2025-06-01 03:50:11,959 - custom_form_submitter - INFO - Waiting 6.57 seconds before next submission
+2025-06-01 03:50:18,534 - custom_form_submitter - INFO - Processing submission 2/5
+2025-06-01 03:50:18,537 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:50:19,728 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:50:21,409 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:50:46,453 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:50:46,866 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\2_form_load_timeout_20250601_035046.png
+2025-06-01 03:50:51,880 - custom_form_submitter - INFO - Retry attempt 2/3
+2025-06-01 03:50:51,880 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:50:53,002 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:50:54,557 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:51:14,291 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:51:14,514 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\2_form_load_timeout_20250601_035114.png
+2025-06-01 03:51:19,816 - custom_form_submitter - INFO - Retry attempt 3/3
+2025-06-01 03:51:19,816 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:51:21,146 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:51:22,650 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:51:43,442 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:51:43,678 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\2_form_load_timeout_20250601_035143.png
+2025-06-01 03:51:49,458 - custom_form_submitter - INFO - Waiting 7.36 seconds before next submission
+2025-06-01 03:51:56,820 - custom_form_submitter - INFO - Processing submission 3/5
+2025-06-01 03:51:56,820 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:51:58,017 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:51:59,575 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:52:19,114 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:52:19,329 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\3_form_load_timeout_20250601_035219.png
+2025-06-01 03:52:26,559 - custom_form_submitter - INFO - Retry attempt 2/3
+2025-06-01 03:52:26,559 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:52:27,541 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:52:29,270 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:52:49,558 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:52:49,823 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\3_form_load_timeout_20250601_035249.png
+2025-06-01 03:52:56,702 - custom_form_submitter - INFO - Retry attempt 3/3
+2025-06-01 03:52:56,702 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:52:57,929 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:52:59,683 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:53:19,033 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:53:19,360 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\3_form_load_timeout_20250601_035319.png
+2025-06-01 03:53:24,575 - custom_form_submitter - INFO - Waiting 3.01 seconds before next submission
+2025-06-01 03:53:27,585 - custom_form_submitter - INFO - Processing submission 4/5
+2025-06-01 03:53:27,585 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:53:28,674 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:53:30,479 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:53:50,536 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:53:50,825 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\4_form_load_timeout_20250601_035350.png
+2025-06-01 03:53:56,738 - custom_form_submitter - INFO - Retry attempt 2/3
+2025-06-01 03:53:56,738 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:53:58,117 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:53:59,789 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:54:19,585 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:54:19,861 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\4_form_load_timeout_20250601_035419.png
+2025-06-01 03:54:26,459 - custom_form_submitter - INFO - Retry attempt 3/3
+2025-06-01 03:54:26,460 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:54:27,602 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:54:29,352 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:54:49,342 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:54:49,623 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\4_form_load_timeout_20250601_035449.png
+2025-06-01 03:54:54,856 - custom_form_submitter - INFO - Waiting 4.36 seconds before next submission
+2025-06-01 03:54:59,218 - custom_form_submitter - INFO - Processing submission 5/5
+2025-06-01 03:54:59,218 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:55:00,212 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:55:02,160 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:55:26,306 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:55:26,520 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\5_form_load_timeout_20250601_035526.png
+2025-06-01 03:55:32,565 - custom_form_submitter - INFO - Retry attempt 2/3
+2025-06-01 03:55:32,565 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:55:33,778 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:55:35,402 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:55:55,181 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:55:55,395 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\5_form_load_timeout_20250601_035555.png
+2025-06-01 03:56:02,112 - custom_form_submitter - INFO - Retry attempt 3/3
+2025-06-01 03:56:02,112 - custom_form_submitter - INFO - Starting new form submission
+2025-06-01 03:56:03,390 - root - INFO - Chromedriver is already installed.
+2025-06-01 03:56:04,845 - custom_form_submitter - INFO - Chrome WebDriver set up successfully
+2025-06-01 03:56:24,899 - custom_form_submitter - ERROR - Timeout waiting for form to load
+2025-06-01 03:56:25,166 - custom_form_submitter - INFO - Screenshot saved: C:\Users\moval\Desktop\AIU_Folder\Ai_class\my_ai\vpn_form_screenshots\5_form_load_timeout_20250601_035624.png
+2025-06-01 03:56:32,162 - custom_form_submitter - INFO - Results saved to vpn_form_results_20250601_035632.json

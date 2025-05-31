@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+vpn_form_submission.log/
+vpn_form_results_20250601_035632.json/
+# Node.js logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Environment variables
+.env
+
+# Puppeteer screenshots and results
+puppeteer_screenshots/
+puppeteer_results_*.json
+
+# Package manager files
+package-lock.json
+yarn.lock
+
+# VS Code settings
+.vscode/

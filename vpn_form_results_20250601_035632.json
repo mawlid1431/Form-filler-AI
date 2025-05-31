@@ -1,0 +1,37 @@
+{
+  "total": 5,
+  "success": 0,
+  "failure": 5,
+  "details": [
+    {
+      "entry_index": 0,
+      "name": "User_1",
+      "success": false,
+      "error": "Submission failed without exception"
+    },
+    {
+      "entry_index": 1,
+      "name": "User_2",
+      "success": false,
+      "error": "Submission failed without exception"
+    },
+    {
+      "entry_index": 2,
+      "name": "User_3",
+      "success": false,
+      "error": "Submission failed without exception"
+    },
+    {
+      "entry_index": 3,
+      "name": "User_4",
+      "success": false,
+      "error": "Submission failed without exception"
+    },
+    {
+      "entry_index": 4,
+      "name": "User_5",
+      "success": false,
+      "error": "Submission failed without exception"
+    }
+  ]
+}
